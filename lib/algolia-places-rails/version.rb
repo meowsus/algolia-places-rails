@@ -1,3 +1,3 @@
 module AlgoliaPlacesRails
-  VERSION = '0.1.0'.freeze
+  VERSION = '1.16.4'.freeze
 end
